@@ -1,4 +1,4 @@
-study-python
+trial-python
 ============
 
 環境設定
